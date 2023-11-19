@@ -251,3 +251,4 @@ class App {
   }
 }
 const app = new App();
+//made with vanilla Javascript
